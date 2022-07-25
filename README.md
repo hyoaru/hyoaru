@@ -15,6 +15,7 @@ A programmer, graphic designer, layout artist, and a data scientist in the makin
 ![numpy](https://img.shields.io/badge/-numpy-%23eeeeee?style=flat-square&logo=numpy&logoColor=black)
 ![seaborn](https://img.shields.io/badge/-seaborn-%23eeeeee?style=flat-square&logo=python&logoColor=black)
 ![plotly](https://img.shields.io/badge/-plotly-%23eeeeee?style=flat-square&logo=plotly&logoColor=black)
+![sklearn](https://img.shields.io/badge/-sklearn-%23eeeeee?style=flat-square&logo=scikitlearn&logoColor=black)
 ![git](https://img.shields.io/badge/-git-%23eeeeee?style=flat-square&logo=git&logoColor=black)
 ![github](https://img.shields.io/badge/-github-%23eeeeee?style=flat-square&logo=github&logoColor=black)
 ![jupyter](https://img.shields.io/badge/-jupyter-%23eeeeee?style=flat-square&logo=jupyter&logoColor=black)
