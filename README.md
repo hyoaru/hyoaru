@@ -11,6 +11,7 @@ A programmer, graphic designer, layout artist, and a data scientist in the makin
 ![flutter](https://img.shields.io/badge/-flutter-%23eeeeee?style=flat-square&logo=flutter&logoColor=black)
 ![postgresql](https://img.shields.io/badge/-postgresql-%23eeeeee?style=flat-square&logo=postgresql&logoColor=black)
 ![mysql](https://img.shields.io/badge/-mysql-%23eeeeee?style=flat-square&logo=mysql&logoColor=black)
+![flask](https://img.shields.io/badge/-flask-%23eeeeee?style=flat-square&logo=flask&logoColor=black)
 ![pandas](https://img.shields.io/badge/-pandas-%23eeeeee?style=flat-square&logo=pandas&logoColor=black)
 ![numpy](https://img.shields.io/badge/-numpy-%23eeeeee?style=flat-square&logo=numpy&logoColor=black)
 ![seaborn](https://img.shields.io/badge/-seaborn-%23eeeeee?style=flat-square&logo=python&logoColor=black)
