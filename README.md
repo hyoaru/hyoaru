@@ -17,6 +17,7 @@ A programmer, graphic designer, layout artist, and a data scientist in the makin
 ![seaborn](https://img.shields.io/badge/-seaborn-%23eeeeee?style=flat-square&logo=python&logoColor=black)
 ![plotly](https://img.shields.io/badge/-plotly-%23eeeeee?style=flat-square&logo=plotly&logoColor=black)
 ![sklearn](https://img.shields.io/badge/-sklearn-%23eeeeee?style=flat-square&logo=scikitlearn&logoColor=black)
+![keras](https://img.shields.io/badge/-keras-%23eeeeee?style=flat-square&logo=keras&logoColor=black)
 ![git](https://img.shields.io/badge/-git-%23eeeeee?style=flat-square&logo=git&logoColor=black)
 ![github](https://img.shields.io/badge/-github-%23eeeeee?style=flat-square&logo=github&logoColor=black)
 ![jupyter](https://img.shields.io/badge/-jupyter-%23eeeeee?style=flat-square&logo=jupyter&logoColor=black)
@@ -30,4 +31,5 @@ A programmer, graphic designer, layout artist, and a data scientist in the makin
 ![premiere](https://img.shields.io/badge/-premiere-%23eeeeee?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=black)
 
 ![visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=visitors&labelColor=%23000000&countColor=%23eeeeee&style=flat-square)
+<a href="https://www.linkedin.com/in/jjcabreraaaa/"><img src="https://img.shields.io/badge/-LINKEDIN-%23000000?style=flat-square&logo=linkedin&logoColor=white&?link=https://www.linkedin.com/in/jjcabreraaaa/" alt="jjcabreraaaa">
 <a href="https://open.spotify.com/user/12180365121"><img src="https://img.shields.io/badge/-SPOTIFY-%23000000?style=flat-square&logo=spotify&logoColor=white&?link=https://open.spotify.com/user/12180365121&link=https://open.spotify.com/user/12180365121" alt="haru">
