@@ -30,6 +30,8 @@ A programmer, graphic designer, layout artist, and a data scientist in the makin
 ![illustrator](https://img.shields.io/badge/-illustrator-%23eeeeee?style=flat-square&logo=adobeillustrator&logoColor=black)
 ![premiere](https://img.shields.io/badge/-premiere-%23eeeeee?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=black)
 
-![visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=visitors&labelColor=%23000000&countColor=%23eeeeee&style=flat-square)
+<!-- ![visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=VISITORS&labelColor=%23000000&countColor=%23eeeeee&style=flat-square&labelStyle=upper) -->
+
 <a href="https://www.linkedin.com/in/jjcabreraaaa/"><img src="https://img.shields.io/badge/-LINKEDIN-%23000000?style=flat-square&logo=linkedin&logoColor=white&?link=https://www.linkedin.com/in/jjcabreraaaa/" alt="jjcabreraaaa">
 <a href="https://open.spotify.com/user/12180365121"><img src="https://img.shields.io/badge/-SPOTIFY-%23000000?style=flat-square&logo=spotify&logoColor=white&?link=https://open.spotify.com/user/12180365121&link=https://open.spotify.com/user/12180365121" alt="haru">
+<a href="https://visitorbadge.io/status?path=path=github.com%2Fhyoaru"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=VISITORS&labelColor=%23000000&countColor=%23eeeeee&style=flat-square&labelStyle=upper"></a>
