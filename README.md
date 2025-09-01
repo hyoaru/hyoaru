@@ -79,23 +79,9 @@ A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, an
 
 Still just an idiot sandwich, but one that automates, scales, and ships.  
 
-
-
-<div style="display: flex; align-items: center; gap: 4px; line-height: 0;">
-  <span style="font-size: 1.2em; font-weight: bold; margin-right: 8px">Get in touch</span>
-  <a href="https://open.spotify.com/user/12180365121">
-    <img src="https://img.shields.io/badge/-Spotify-%23000000?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-  <a href="https://www.linkedin.com/in/jjcabreraaaa/">
-    <img src="https://img.shields.io/badge/-Linkedin-%23000000?style=flat-square&logo=linksys&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hello@jadecabrera.com">
-    <img src="https://img.shields.io/badge/Hello@jadecabrera.com-%23000000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <a href="https://jadecabrera.com">
-    <img src="https://img.shields.io/badge/Jadecabrera.com-%23000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://visitorbadge.io/status?path=github.com%2Fhyoaru">
-    <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=Visitors&labelColor=%23000000&countColor=%23eeeeee&style=flat-square&labelStyle=title" alt="Visitors">
-  </a>
-</div>
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-%23000000?style=flat-square&logo=github&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/-Spotify-%23000000?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12180365121)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23000000?style=flat-square&logo=linksys&logoColor=white)](https://www.linkedin.com/in/jjcabreraaaa/)
+[![Email](https://img.shields.io/badge/hello@jadecabrera.com-%23000000?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jadecabrera.com)
+[![Portfolio](https://img.shields.io/badge/jadecabrera.com-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://jadecabrera.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fhyoaru&label=Visitors&labelColor=%23000000&countColor=%23eeeeee&style=flat-square&label)
