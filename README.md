@@ -18,6 +18,7 @@ A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, Qu
 <img src="https://img.shields.io/badge/-typescript-%23eeeeee?style=flat-square&amp;logo=typescript&amp;logoColor=black" alt="" >
 <img src="https://img.shields.io/badge/-docker-%23eeeeee?style=flat-square&amp;logo=docker&amp;logoColor=black" alt="" >
 <img src="https://img.shields.io/badge/-git-%23eeeeee?style=flat-square&amp;logo=git&amp;logoColor=black" alt="" >
+<img src="https://img.shields.io/badge/-labview-%23eeeeee?style=flat-square&amp;logo=labview&amp;logoColor=black" alt="" >
 <img src="https://img.shields.io/badge/-bootstrap-%23eeeeee?style=flat-square&amp;logo=bootstrap&amp;logoColor=black" alt="" >
 <img src="https://img.shields.io/badge/-codeigniter-%23eeeeee?style=flat-square&amp;logo=codeigniter&amp;logoColor=black" alt="" >
 <img src="https://img.shields.io/badge/-daisyui-%23eeeeee?style=flat-square&amp;logo=daisyui&amp;logoColor=black" alt="" >
