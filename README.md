@@ -74,8 +74,8 @@ A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, an
 <img src="https://img.shields.io/badge/-premiere-%23eeeeee?style=flat-square&amp;logo=aframe&amp;logoColor=black" alt="" >
 
 <br/>
+<br/>
 
----
 
 Still just an idiot sandwich, but one that automates, scales, and ships.  
 
