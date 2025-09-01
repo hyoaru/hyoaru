@@ -1,6 +1,6 @@
-## An idiot sandwich from the Philippines.
+## An idiot sandwich from the Philippines
 
-A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, and Data Science**. I build scalable applications, automate workflows, and turn data into actionable insights — thriving at the intersection of **code, systems, and data**.
+A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, Quality Engineering, and Data Science**. I build scalable applications, automate workflows, and turn data into actionable insights — thriving at the intersection of **code, systems, and data**.
 
 ### Technologies
 
@@ -76,8 +76,7 @@ A 22-year-old multi-disciplinary engineer in **Fullstack Development, DevOps, an
 <br/>
 <br/>
 
-
-Still just an idiot sandwich, but one that automates, scales, and ships.  
+Still just an idiot sandwich, but one that automates, scales, and ships.
 
 [![Get in touch](https://img.shields.io/badge/Get%20in%20touch-%23000000?style=flat-square&logo=github&logoColor=white)](#)
 [![Spotify](https://img.shields.io/badge/-Spotify-%23000000?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12180365121)
